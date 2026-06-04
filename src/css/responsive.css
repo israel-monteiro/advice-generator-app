@@ -1,0 +1,19 @@
+@media (min-width: 768px) {
+    .advice-card {
+        max-width: var(--max-width-lg);
+        padding: var(--spacing-600);
+        gap: var(--spacing-500);
+        padding-bottom: calc(var(--spacing-500) + 32px);
+    }
+
+    .advice-card__content {
+        gap: var(--spacing-300);
+    }
+
+    .advice-card__content .advice-card__id {
+        font-size: 13px;
+    }
+    .advice-card__content .advice-card__text {
+        font-size: 28px;
+    }
+}
