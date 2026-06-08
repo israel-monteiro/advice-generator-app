@@ -31,7 +31,7 @@ This project is a solution for the Frontend Mentor "Advice Generator App" challe
 
 ## Demo
 
-- Solution URL: [Click here]()
+- Solution URL: [Click here](https://www.frontendmentor.io/solutions/advice-generator-app-using-typescript-and-fetch-api-3VRl08z7bw)
 - Live site URL: [Click here](https://israel-monteiro.github.io/advice-generator-app/)
 
 ### Screenshot
